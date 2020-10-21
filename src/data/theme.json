@@ -1,23 +1,9 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "Sheridan Supply Co",
+  "header_title": "Suppling the World with essential goods",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "hello@sheridansupply.us",
   "social": [
-    {
-      "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
-    },
-    {
-      "channel": "instagram",
-      "handle": "its.nwa",
-      "link_text": "ig"
-    },
-    {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
-    }
+
   ]
 }
